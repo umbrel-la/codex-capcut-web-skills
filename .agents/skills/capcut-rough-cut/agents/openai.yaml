@@ -1,0 +1,4 @@
+interface:
+  display_name: "CapCut Web — черновой монтаж"
+  short_description: "Отбор истории или чистка пауз и дублей в Web"
+  default_prompt: "Используй $capcut-rough-cut для заказанной нарезки или чистки речи в CapCut Web, сохранив остальное содержание."

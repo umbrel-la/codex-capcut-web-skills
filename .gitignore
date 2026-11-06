@@ -1,0 +1,14 @@
+_монтаж/
+.validation/
+**/node_modules/
+**/__pycache__/
+**/.props-*.json
+.env
+.env.*
+*.log
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.srt
+*.ass

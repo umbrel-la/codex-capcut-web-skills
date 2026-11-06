@@ -1,0 +1,4 @@
+interface:
+  display_name: "CapCut Web — выбор задачи и монтаж"
+  short_description: "Новый рилс, оформление или продолжение в Web"
+  default_prompt: "Используй $reel-director: определи нужный сценарий CapCut Web по моему запросу и выполни только необходимые этапы."

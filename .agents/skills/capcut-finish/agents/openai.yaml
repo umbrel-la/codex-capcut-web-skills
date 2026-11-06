@@ -1,0 +1,4 @@
+interface:
+  display_name: "CapCut Web — оформление и правки"
+  short_description: "Motion, фон, субтитры и отдельные правки в Web"
+  default_prompt: "Используй $capcut-finish для заказанного оформления или правки готового видео в CapCut Web; сохрани остальные параметры монтажа."
